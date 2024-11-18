@@ -13,7 +13,6 @@
     justify-content: space-between;
     align-items: center;
     position: relative;
-    position: relative;
 }
 
 .container {
@@ -63,6 +62,11 @@
 .container__titulo {
     display: none
 }
+
+.opções {
+    display: none
+}
+
 
 @media screen and (min-width: 1024px) {
    .container__titulo, 
