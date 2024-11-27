@@ -85,10 +85,6 @@ margin: 30px 20px 20px 20px;
         margin: 2em 0 3em 0;
     }
 
-    .swiper {
-        width: 60%;
-    }
-
     .swiper-button-prev,
     .swiper-button-next {
         display: block;
